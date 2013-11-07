@@ -9,7 +9,7 @@ from naoqi import ALModule
 from optparse import OptionParser
 
 # IP du Nao, a adapter avant l'execution.
-IP = "192.168.1.10"
+IP = "192.168.1.08"
 # Port standard.
 port = 9559
 
